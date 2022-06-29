@@ -12,7 +12,7 @@ if [ -f ~/.bash_aliases ]; then
 . ~/.bash_aliases
 fi
 
-export PATH="$HOME/Code/Scripts:$PATH"
+export PATH="$HOME/Code/Linux_Ecosystem/Scripts:$PATH"
 export EDITOR=vim
 export VISUAL=vim
-cp "$HOME/.bashrc" "$HOME/Code/Scripts/bashrc"
+cp "$HOME/.bashrc" "$HOME/Code/Linux_Ecosystem/Scripts/bashrc"
