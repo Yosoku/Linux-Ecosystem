@@ -15,4 +15,5 @@ fi
 export PATH="$HOME/Code/Linux_Ecosystem/Scripts:$PATH"
 export EDITOR=vim
 export VISUAL=vim
+export TERMINAL=cool-retro-term
 cp "$HOME/.bashrc" "$HOME/Code/Linux_Ecosystem/Scripts/bashrc"
